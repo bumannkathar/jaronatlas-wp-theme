@@ -1,0 +1,27 @@
+/*
+Theme Name: Jaronatlas-Theme
+Theme URI: https://deine-website.de
+Description: A theme for the website of our social-media account "jaronatlas".
+Author: Katharina Bumann
+Version: 1.0
+*/
+
+/* Allgemeine Stile */
+
+body {
+    font-family: Barlow, sans-serif;
+    color: #333;
+    background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Barlow, sans-serif;
+    font-weight: bold;
+    color: #000;
+}
+
+footer .menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
